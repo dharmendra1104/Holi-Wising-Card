@@ -86,10 +86,10 @@ video {
     animation: hue 5s infinite;
 }
 
-.log{
+.log {
     color: seagreen;
     font-weight: 800;
-    background:transparent;
+    background: transparent;
     background-color: rgba(240, 81, 2, 0.377);
     padding: 8px;
     border-radius: 5px;
@@ -123,7 +123,7 @@ video {
         text-align: center;
     }
 
-    .myinfo h2{
+    .myinfo h2 {
         margin-top: 100px;
     }
 
@@ -137,14 +137,14 @@ video {
     }
 
     .nav-link {
-        margin-left: 0; /* Reset margin for smaller screens */
-        display: block; /* Convert links to block for stacking */
-        margin-bottom: 10px; /* Add spacing between links */
+        margin-left: 0;
+        display: block;
+        margin-bottom: 10px;
     }
 
     .btn {
-        display: block; /* Convert buttons to block for stacking */
-        margin: 10px auto; /* Center align buttons */
+        display: block;
+        margin: 10px auto;
     }
 
     .video-container {
